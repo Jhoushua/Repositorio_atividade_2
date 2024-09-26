@@ -1,0 +1,4 @@
+algoritmo "escrever_cachorro"
+inicio
+   escreva("cachorro")
+fimalgoritmo"
